@@ -1,6 +1,6 @@
 # roadmap-web3
 
-* @1. Before Web3.0 and Blockchain: Fundamentals of Computer Science
+* _1. Before Web3.0 and Blockchain: Fundamentals of Computer Science_
 * 2. Learn The Fundamentals Of Blockchain
 * 3. What is a Decentralized Application?
 * 4. Learn Front End Development in 2022
